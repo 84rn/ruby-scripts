@@ -7,6 +7,12 @@ BEGIN {
     puts "Initializing program..."
 }
 
+=begin
+So this is what block comments look 
+like in Ruby. Pretty ugly,
+if you ask me.
+=end
+
 # This runs after the program is finished
 END {
     puts "Ending program."
